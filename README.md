@@ -15,7 +15,6 @@
 08_Resources 资源库：原材料（Books/Papers/Courses/Tools，可以乱）
 09_Ideas    想法库：Business / Project / Learning / Random
 10_Life     生活：规划、习惯、偏好（不记敏感隐私）
-11_Finance  财务：Income / Expense / Investment / Business
 12_Archive  归档：所有旧东西，不删除
 13_Growth   个人成长系统：每周/每月复盘，沉淀经验与资产
 ```
@@ -29,7 +28,7 @@
 ## 维护节奏（不要一开始就填满）
 - **第一周（先让 AI 认识你）**：00_System、01_Self、02_Learning、06_AI_Team
 - **第二阶段（沉淀资产）**：05_Projects、04_Work、07_Knowledge
-- **第三阶段（寻找变现）**：09_Ideas、11_Finance
+- **第三阶段（寻找变现）**：09_Ideas（财务目标见 `00_System/Goals.md`）
 - 每天随手记：`00_System/Daily_Log.md`；犯错记 `Mistake_Database.md`；资产变化记 `Asset_Index.md`
 - **每日日志**：`13_Growth/Daily/`（每天 21:30 自动生成，未使用 Multica 会注明）
 - **每周复盘**：`13_Growth/Weekly/`（周日 22:00 自动，本周总结/成长分析/经验沉淀/下周建议）
