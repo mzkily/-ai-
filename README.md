@@ -17,6 +17,7 @@
 10_Life     生活：规划、习惯、偏好（不记敏感隐私）
 11_Finance  财务：Income / Expense / Investment / Business
 12_Archive  归档：所有旧东西，不删除
+13_Growth   个人成长系统：每周/每月复盘，沉淀经验与资产
 ```
 
 ## AI 读取顺序
@@ -30,6 +31,9 @@
 - **第二阶段（沉淀资产）**：05_Projects、04_Work、07_Knowledge
 - **第三阶段（寻找变现）**：09_Ideas、11_Finance
 - 每天随手记：`00_System/Daily_Log.md`；犯错记 `Mistake_Database.md`；资产变化记 `Asset_Index.md`
+- **每周复盘**：`13_Growth/Weekly/`（本周总结/成长分析/经验沉淀/下周建议）
+- **每月复盘**：`13_Growth/Monthly/`（月度总结/能力成长/资产积累/问题与调整/下月规划）
+- 知识资产分层：信息 < 知识 < 经验 < 资产，优先沉淀「经验」
 
 ## 目标
 坚持维护 1 年 → 一个拥有你 1 年思考、学习轨迹、项目经验、工作流的私人 AI 大脑。
