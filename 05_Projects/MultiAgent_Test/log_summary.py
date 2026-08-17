@@ -71,7 +71,7 @@ def parse_completed_items(file_path):
             continue
         if in_section and HEADING.match(line):
             break  # 遇到下一个 ## 标题，停止收集
-        if in_section and line.startswith("- "):
+        if in_section and (line.startswith("- ") or line.startswith("* ")):
             text = line[2:].strip().replace("**", "").strip()
             if text:
                 items.append(text)
