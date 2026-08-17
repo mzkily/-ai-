@@ -6,7 +6,7 @@
     python log_summary.py
 
 日志目录：D:\\Personal_AI_OS\\13_Growth\\Daily\\（文件名须为 YYYY-MM-DD.md）
-仅使用标准库：pathlib, re, datetime, os
+仅使用标准库：pathlib, re, datetime, sys
 """
 
 import re
